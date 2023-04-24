@@ -1,0 +1,48 @@
+﻿@model IEnumerable<FestivalWebApplication1.Models.Cosplayer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CosplayerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CosplayerBirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CosplayerType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CosplayerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CosplayerBirthDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CosplayerType)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CosplayerId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CosplayerId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CosplayerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

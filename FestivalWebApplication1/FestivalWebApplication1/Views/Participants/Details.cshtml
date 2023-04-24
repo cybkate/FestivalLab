@@ -1,0 +1,36 @@
+﻿@model FestivalWebApplication1.Models.Participant
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Participant</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ParticipantName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ParticipantName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ParticipantBirthDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ParticipantBirthDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ParticipantType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ParticipantType)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ParticipantId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

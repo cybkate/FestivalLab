@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FestivalWebApplication1
+build_property.RootNamespace = FestivalWebApplication1
+build_property.ProjectDir = D:\istatp\FestivalWebApplication1\FestivalWebApplication1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\istatp\FestivalWebApplication1\FestivalWebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Artists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Artists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Artists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Artists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Cosplayers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Cosplayers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Cosplayers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Cosplayers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Cosplayers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/CosplayerTeams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyVGVhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/CosplayerTeams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyVGVhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/CosplayerTeams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyVGVhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/CosplayerTeams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyVGVhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/CosplayerTeams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zcGxheWVyVGVhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Fandoms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFuZG9tc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Fandoms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFuZG9tc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Fandoms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFuZG9tc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Fandoms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFuZG9tc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Fandoms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFuZG9tc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Participants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Participants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Participants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Participants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Participants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Pictures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Pictures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Pictures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Pictures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Pictures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljdHVyZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Tickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/istatp/FestivalWebApplication1/FestivalWebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wf42zuzuxz

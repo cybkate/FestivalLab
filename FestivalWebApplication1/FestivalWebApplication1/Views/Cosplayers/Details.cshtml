@@ -1,0 +1,60 @@
+﻿@model FestivalWebApplication1.Models.Cosplayer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Cosplayer</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CosplayerName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CosplayerName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CosplayerBirthDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CosplayerBirthDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CosplayerType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CosplayerType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FandomId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FandomId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CosplayerTeamId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CosplayerTeamId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cosplayer1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cosplayer1.FandomId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CosplayerNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CosplayerNavigation.CosplayerTeamId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CosplayerId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
